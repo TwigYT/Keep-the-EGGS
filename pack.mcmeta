@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Replaces the new spawn egg textures with the old ones",
+    "pack_format": 53,
+    "supported_formats": 53
+  }
+}
