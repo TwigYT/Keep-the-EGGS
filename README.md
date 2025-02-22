@@ -8,7 +8,7 @@ This pack changes all the [new egg textures](https://raw.githubusercontent.com/T
 
 # Context
 
-When I first saw the new eggs, I thought that they look to complex; to unique; (and some) to ugly. I thought the game looked better with a simpler design. To be fair, Minecraft is a simple game. And with the new mob variants and the new eggs, Minecraft is getting too much detail. It like its losing its “Minecraftyness.” So I made this pack in one afternoon and evening, same day that the snapshot was released.
+When I first saw the new eggs, I thought that they look to complex; to unique; (and some) to ugly. I thought the game looked better with a simpler design. To be fair, Minecraft is a simple game. And with the new mob variants and the new eggs, Minecraft is getting too much detail. It like its losing its minecraft charm. So I made this pack in one afternoon and evening, same day that the snapshot was released.
 
 ---
 
